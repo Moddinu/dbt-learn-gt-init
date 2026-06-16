@@ -1,7 +1,8 @@
 Welcome to your new dbt project!
 
 ### Using the starter project
-
+### Projet Manager
+Nga Le
 Try running the following commands:
 - dbt build
 
